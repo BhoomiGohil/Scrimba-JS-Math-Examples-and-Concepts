@@ -1,60 +1,60 @@
-// // String Concatenation
-// let firstName = "Bhoomi",
-//   lastName = "Gohil";
-// let fullName = firstName + " " + lastName;
-// console.log(fullName);
+// String Concatenation
+let firstName = "Bhoomi",
+  lastName = "Gohil";
+let fullName = firstName + " " + lastName;
+console.log(fullName);
 
-// //////////////////////////////////////////////////
+//////////////////////////////////////////////////
 
-// // Greeting Function
-// let name = "Linda",
-//   greeting = "Hi there";
+// Greeting Function
+let name = "Linda",
+  greeting = "Hi there";
 
-// function greet() {
-//   console.log(greeting + ", " + name + "!");
-// }
-// greet();
+function greet() {
+  console.log(greeting + ", " + name + "!");
+}
+greet();
 
-// //////////////////////////////////////////////////////
+//////////////////////////////////////////////////////
 
-// // Points System
-// let myPoints = 3;
+// Points System
+let myPoints = 3;
 
-// function add3Points() {
-//   myPoints += 3;
-// }
+function add3Points() {
+  myPoints += 3;
+}
 
-// function remove1Point() {
-//   myPoints -= 1;
-// }
+function remove1Point() {
+  myPoints -= 1;
+}
 
-// // Modifying Points
-// add3Points(); // myPoints = 6
-// add3Points(); // myPoints = 9
-// add3Points(); // myPoints = 12
-// remove1Point(); // myPoints = 11
-// remove1Point(); // myPoints = 10
+// Modifying Points
+add3Points(); // myPoints = 6
+add3Points(); // myPoints = 9
+add3Points(); // myPoints = 12
+remove1Point(); // myPoints = 11
+remove1Point(); // myPoints = 10
 
-// console.log(myPoints); // Output the final points
+console.log(myPoints); // Output the final points
 
-// ///////////////////////////////////////////////////////
+///////////////////////////////////////////////////////
 
-// // Demonstrating Type Coercion
-// console.log("2" + 2); // "22"
-// console.log(11 + 7); // 18
-// console.log(6 + "5"); // "65"
-// console.log("My points: " + 5 + 9); // "My points: 59"
-// console.log(2 + 2); // 4
-// console.log("11" + "14"); // "1114"
+// Demonstrating Type Coercion
+console.log("2" + 2); // "22"
+console.log(11 + 7); // 18
+console.log(6 + "5"); // "65"
+console.log("My points: " + 5 + 9); // "My points: 59"
+console.log(2 + 2); // 4
+console.log("11" + "14"); // "1114"
 
-// //////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////
 
-// // Error Handling Function
-// let errorParagraph = document.getElementById("error");
+// Error Handling Function
+let errorParagraph = document.getElementById("error");
 
-// function purchase() {
-//   errorParagraph.textContent = "Something went wrong, please try again!";
-// }
+function purchase() {
+  errorParagraph.textContent = "Something went wrong, please try again!";
+}
 
 ////////////////////////////////////////////////////////
 
