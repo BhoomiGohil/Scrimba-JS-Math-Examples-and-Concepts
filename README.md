@@ -1,18 +1,20 @@
-# Math Operations
+# Scrimba Math Operations
 
-This project is a simple web application that performs basic mathematical operations such as addition, subtraction, multiplication, and division. Developed as part of the Scrimba course, it provides a user-friendly interface to explore fundamental arithmetic concepts.
+## Description
+
+**Scrimba Math Operations** is a collection of interactive scripts designed to enhance understanding of basic arithmetic functions using JavaScript. This project features practical examples for performing addition, subtraction, multiplication, and division.
+
+## Concepts Covered
+
+- **Operator Usage**: Learn how to use arithmetic operators in JavaScript.
+- **Function Creation**: Understand how to create reusable functions for various math operations.
+- **Practical Applications**: Engage with examples that demonstrate real-world usage of math concepts.
 
 ## Features
 
-- Basic arithmetic operations: addition, subtraction, multiplication, and division
-- User-friendly interface with clear input and output sections
-- Instant calculation feedback for user inputs
-
-## Technologies Used
-
-- HTML
-- CSS
-- JavaScript
+- Interactive examples for each arithmetic operation.
+- Clear explanations of key concepts and how they are applied in code.
+- User-friendly scripts to help beginners learn math through coding.
 
 ## Getting Started
 
@@ -25,13 +27,13 @@ This project is a simple web application that performs basic mathematical operat
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/BhoomiGohil/Scrimba-Math-Operations.git
+git clone https://github.com/BhoomiGohil/Scrimba-Math-Examples-and-Concepts.git
 ```
 
 2. **Navigate to the project directory:**
 
 ```bash
-cd Scrimba-Math-Operations
+cd Scrimba-Math-Examples-and-Concepts
 ```
 
 3. **Open the `index.html` file in your web browser.**
@@ -55,6 +57,12 @@ Click on the "Go Live" option to run the project.
 2. Enter numbers in the provided input fields.
 3. Select the desired mathematical operation and click the corresponding button to perform the calculation.
 4. View the result displayed on the screen.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
 
 ## Acknowledgements
 
