@@ -1,12 +1,12 @@
-# Practice Time
+# Math Operations
 
-This project is a JavaScript application designed for practicing and improving your coding skills, developed as part of the Scrimba JavaScript course. It serves as a hands-on tool for experimenting with JavaScript concepts in a practical manner.
+This project is a simple web application that performs basic mathematical operations such as addition, subtraction, multiplication, and division. Developed as part of the Scrimba course, it provides a user-friendly interface to explore fundamental arithmetic concepts.
 
 ## Features
 
-- Interactive coding environment
-- Real-time feedback on code execution
-- Examples of JavaScript concepts for practice
+- Basic arithmetic operations: addition, subtraction, multiplication, and division
+- User-friendly interface with clear input and output sections
+- Instant calculation feedback for user inputs
 
 ## Technologies Used
 
@@ -25,13 +25,13 @@ This project is a JavaScript application designed for practicing and improving y
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/BhoomiGohil/Scrimba-JavaScriptCoursePracticeTime.git
+git clone https://github.com/BhoomiGohil/Scrimba-Math-Operations.git
 ```
 
 2. **Navigate to the project directory:**
 
 ```bash
-cd Scrimba-JavaScriptCoursePracticeTime
+cd Scrimba-Math-Operations
 ```
 
 3. **Open the `index.html` file in your web browser.**
@@ -51,9 +51,10 @@ Click on the "Go Live" option to run the project.
 
 ## Usage
 
-1. Open the application in your web browser.
-2. Experiment with the provided code examples or write your own JavaScript code.
-3. Observe the output in real-time to understand how JavaScript works.
+1. Launch the application in your web browser.
+2. Enter numbers in the provided input fields.
+3. Select the desired mathematical operation and click the corresponding button to perform the calculation.
+4. View the result displayed on the screen.
 
 ## Acknowledgements
 
