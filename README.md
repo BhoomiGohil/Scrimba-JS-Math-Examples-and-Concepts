@@ -16,6 +16,12 @@
 - Clear explanations of key concepts and how they are applied in code.
 - User-friendly scripts to help beginners learn math through coding.
 
+## Visual Design
+
+Below are some visuals of the project:
+
+![Home Page](Index.png)
+
 ## Getting Started
 
 ### Prerequisites
