@@ -33,13 +33,13 @@ Below are some visuals of the project:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/BhoomiGohil/Scrimba-Math-Examples-and-Concepts.git
+git clone https://github.com/BhoomiGohil/Scrimba-JS-Math-Examples-and-Concepts.git
 ```
 
 2. **Navigate to the project directory:**
 
 ```bash
-cd Scrimba-Math-Examples-and-Concepts
+cd Scrimba-JS-Math-Examples-and-Concepts
 ```
 
 3. **Open the `index.html` file in your web browser.**
